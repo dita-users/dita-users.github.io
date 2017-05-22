@@ -1,16 +1,13 @@
----
-title: my title
-author: MG
----
+%  My Title
 
 # Title
 
-## Second Level {.topic}
+## Second Level {.foo #bar .topic}
 
 
-Some Line {.more}
+Some Line
 
-Some Line {#44}
+Some Line
 
 
 |  |  |  |
@@ -22,3 +19,11 @@ Some Line {#44}
 ## Second Level {.concept}
 
 More Text here
+
+### Task {.task}
+
+Context
+
+1.  Command
+
+    Info.

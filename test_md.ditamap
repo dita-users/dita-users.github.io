@@ -4,4 +4,6 @@
     <title>Test-md</title>
     
     <topicref href="index.md" format="markdown"></topicref>
+    
+    <topicref href="README.md" format="markdown"></topicref>
 </map>
