@@ -5,5 +5,7 @@
     
     <topicref href="index.md" format="markdown"></topicref>
     
+    <topicref href="dita/index.dita"></topicref>
+    
     <topicref href="README.md" format="markdown"></topicref>
 </map>
