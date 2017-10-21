@@ -1,5 +1,5 @@
 ---
-title: test
+title: DITA Users
 author: Max
 ---
 
@@ -7,6 +7,6 @@ author: Max
 
 ## Welcome {.section}
 
-Demo project: https://github.com/dita-users/demo-project
+* <a href="https://github.com/dita-users/demo-project">Demo Project</a>
 
-Meetup: https://www.meetup.com/de-DE/DITA-Anwender-Bodensee/
+* <a href="https://www.meetup.com/de-DE/DITA-Anwender-Bodensee/">Meetup Site</a>
